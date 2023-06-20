@@ -16,9 +16,11 @@ As a backend developer with four years of experience, I've honed my skills in de
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar28&theme=react&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKumar28&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
+<div>
+<a href="https://github.com/leaovictor">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaovictor&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -35,9 +37,3 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 ![Snake animation](https://github.com/leaovictor/victorleao/blob/output/github-contribution-grid-snake.svg)
 
-
-<div>
-<a href="https://github.com/leaovictor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaovictor&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
