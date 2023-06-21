@@ -85,8 +85,6 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 ### ✍️ Frase Dev do Dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-![Frase aleatória](https://api.quotable.io/random?language=pt)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
