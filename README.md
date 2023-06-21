@@ -29,7 +29,7 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Habilidades e Competência:
-![Java](https://img.shields.io/badge/Java-8%2B-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming_Language-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-FF4500.svg?style=for-the-badge&logo=html5&logoColor=white)
