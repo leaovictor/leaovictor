@@ -5,6 +5,8 @@
 
   ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 # 💫 Sobre mim:
 Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
