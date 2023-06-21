@@ -1,8 +1,6 @@
-<h1 align="center">Oi 👋, me chamo Victor</h1>
-<p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Dev+Analista+de+Testes;+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
 # 💫 Sobre mim:
 Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
