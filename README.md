@@ -38,7 +38,8 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 ![Clean Code](https://img.shields.io/badge/Clean_Code-Principles-008000.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-API_Development-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-API_Development-5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-CB1F3F.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI_CD-Continuous_Integration_Delivery-555555.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Database-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,24 +64,10 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 ![Learning Agility](https://img.shields.io/badge/Learning_Agility-Continuous_Learning-00C9A7.svg?style=for-the-badge)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📊 GitHub Stats:
+# 📊 Estatísticas do GitHub:
 <div>
 <a href="https://github.com/leaovictor">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaovictor&layout=compact&langs_count=7&theme=dracula"/>
@@ -89,14 +76,17 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus do GitHub
 ![](https://github-profile-trophy.vercel.app/?username=AdityaKumar28&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### ✍️ Random Dev Quote
+### ✍️ Frase Dev do Dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+![Frase aleatória](https://quotes-github-readme.vercel.app/api/lang/pt?type=horizontal&theme=radical)
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
