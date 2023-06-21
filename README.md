@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
+<h1 align="center">Oi 👋, me chamo Victor</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
 <br><br>
 Como analista de testes, sou responsável por projetar, planejar e executar testes em diferentes fases do ciclo de desenvolvimento. Tenho experiência em identificar e documentar requisitos de teste, criar casos de teste abrangentes e automatizados, e realizar testes de regressão para garantir que as alterações não introduzam novos problemas.
