@@ -5,8 +5,6 @@
 
   ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leaovictor&show_icons=true&theme=radical)
-
 
 # 💫 Sobre mim:
 Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
@@ -78,8 +76,8 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 
 <div>
 <a href="https://github.com/leaovictor">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaovictor&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaovictor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaovictor&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leaovictor&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
