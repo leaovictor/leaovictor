@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#7dfca8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7dfca8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
   ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
 
