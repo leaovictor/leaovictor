@@ -30,7 +30,7 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 
 # 💻 Habilidades e Competência:
 ![Java](https://img.shields.io/badge/Java-Programming_Language-007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming_Language-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-FF4500.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Stylesheet-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
