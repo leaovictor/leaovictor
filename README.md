@@ -17,7 +17,8 @@ Estou constantemente atualizando minhas habilidades e conhecimentos, acompanhand
 <br><br>
 Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na área de teste de software. Ficarei feliz em discutir possíveis parcerias e contribuir com meus conhecimentos e experiência para garantir a qualidade dos produtos desenvolvidos.
 
-![](https://komarev.com/ghpvc/?leaovictor=adityakumar28&color=447ff7&label=Visitor+count)
+[![](https://komarev.com/ghpvc/?leaovictor=adityakumar28&color=447ff7&label=Visitor+count)](https://img.shields.io/github/stars/leaovictor/victorleao
+)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
