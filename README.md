@@ -3,7 +3,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 # 💫 About Me:
-As a backend developer with four years of experience, I've honed my skills in designing and building the server-side of applications that power the web. <br>My proficiency in Java has allowed me to develop robust and scalable systems that efficiently handle large volumes of data and traffic.<br><br>Throughout my career, I've gained expertise in database management, RESTful API design, and cloud technologies such as AWS or Azure.<br>My deep understanding of software architecture principles has enabled me to create well-structured and maintainable codebases.<br>I take pride in my ability to work collaboratively with other members of a development team and to effectively communicate complex technical concepts to non-technical stakeholders.<br>
+Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
+<br><br>
+Como analista de testes, sou responsável por projetar, planejar e executar testes em diferentes fases do ciclo de desenvolvimento. Tenho experiência em identificar e documentar requisitos de teste, criar casos de teste abrangentes e automatizados, e realizar testes de regressão para garantir que as alterações não introduzam novos problemas.
+<br><br>
+Minha formação fullstack me proporciona uma visão completa do desenvolvimento de aplicativos, o que é fundamental para criar estratégias de teste eficazes. Entendo tanto o frontend quanto o backend, o que me permite realizar testes de integração entre essas camadas e garantir a interoperabilidade correta do sistema como um todo.
+<br><br>
+Além disso, possuo experiência com diversas ferramentas e tecnologias de teste, como Cypress, Selenium, Robot Framework e outras, que me permitem automatizar testes e aumentar a eficiência do processo.
+<br><br>
+Sou um profissional dedicado, comprometido em entregar software de alta qualidade. Tenho habilidades analíticas para identificar e relatar problemas de forma clara e objetiva, além de trabalhar em colaboração com os membros da equipe de desenvolvimento para solucionar os problemas identificados.
+<br><br>
+Estou constantemente atualizando minhas habilidades e conhecimentos, acompanhando as tendências e práticas recomendadas na área de testes de software. Meu objetivo é contribuir para o sucesso dos projetos, garantindo que os produtos finais atendam aos mais altos padrões de qualidade.
+<br><br>
+Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na área de teste de software. Ficarei feliz em discutir possíveis parcerias e contribuir com meus conhecimentos e experiência para garantir a qualidade dos produtos desenvolvidos.
 
 ![](https://komarev.com/ghpvc/?leaovictor=adityakumar28&color=447ff7&label=Visitor+count)
 
