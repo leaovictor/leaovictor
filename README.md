@@ -28,11 +28,14 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 💻 Tech Stack:
+# 💻 Habilidades e Competência:
 ![Java](https://img.shields.io/badge/Java-8%2B-007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-Framework-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-FF4500.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Stylesheet-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CSS_Preprocessor-CD6799.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Principles-008000.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-API_Development-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-API_Development-5849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
