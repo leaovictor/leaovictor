@@ -2,7 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=039535&size=50&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
-  ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
+<div style="width: 200px; height: 200px; background-color: #f2f2f2; text-align: center; display: flex; align-items: center; justify-content: center;">
+    ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
+</div>
+
 
 
 # 💫 Sobre mim:
