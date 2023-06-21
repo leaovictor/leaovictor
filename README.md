@@ -20,6 +20,8 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 <div>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/leaovictor">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/leaovictor">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/victorleaoreal">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
 
