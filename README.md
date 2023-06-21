@@ -52,6 +52,14 @@ Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na 
 ![Trello](https://img.shields.io/badge/Trello-Project_Management-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Code_Repository-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-Code_Repository-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Design Thinking](https://img.shields.io/badge/Design_Thinking-Innovation-DD1C1A.svg?style=for-the-badge)
+![Gestão de Produtos Digitais](https://img.shields.io/badge/Gestão_de_Produtos_Digitais-Product_Management-2C6CC4.svg?style=for-the-badge)
+![Design UX/UI](https://img.shields.io/badge/Design_UX%2FUI-User_Experience-FF4088.svg?style=for-the-badge)
+![Comunicação Efetiva](https://img.shields.io/badge/Comunicação_Efetiva-Effective_Communication-4AB197.svg?style=for-the-badge)
+![Teamwork & Collaboration](https://img.shields.io/badge/Teamwork_%26_Collaboration-Collaborative_Work-FF9F00.svg?style=for-the-badge)
+![Learning Agility](https://img.shields.io/badge/Learning_Agility-Continuous_Learning-00C9A7.svg?style=for-the-badge)
+
+
 
 
 
