@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, me chamo Victor</h1>
 <p align="center"><img src="animation.gif" width="500" alt="animation.gif"></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Victor+Leão;Dev+Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
 # 💫 Sobre mim:
 Eu sou um analista de testes com formação fullstack. Possuo uma sólida base de conhecimentos em todas as camadas de uma aplicação, o que me permite desempenhar um papel essencial na garantia da qualidade dos projetos de software.
@@ -16,6 +18,9 @@ Sou um profissional dedicado, comprometido em entregar software de alta qualidad
 Estou constantemente atualizando minhas habilidades e conhecimentos, acompanhando as tendências e práticas recomendadas na área de testes de software. Meu objetivo é contribuir para o sucesso dos projetos, garantindo que os produtos finais atendam aos mais altos padrões de qualidade.
 <br><br>
 Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na área de teste de software. Ficarei feliz em discutir possíveis parcerias e contribuir com meus conhecimentos e experiência para garantir a qualidade dos produtos desenvolvidos.
+
+  ![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/leaovictor">
