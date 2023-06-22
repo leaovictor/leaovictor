@@ -3,12 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=039535&size=50&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
-
+<div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+<div/>
+
 
 
 # 💫 Sobre mim:
