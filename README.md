@@ -29,23 +29,6 @@ Estou constantemente atualizando minhas habilidades e conhecimentos, acompanhand
 Estou sempre aberto a oportunidades de colaboração e projetos desafiadores na área de teste de software. Ficarei feliz em discutir possíveis parcerias e contribuir com meus conhecimentos e experiência para garantir a qualidade dos produtos desenvolvidos.
 
 
-<div>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/leaovictor">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/leaovictor">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/victorleaoreal">
-</div>
-
-### Main skills:
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-
-
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Habilidades e Competência:
