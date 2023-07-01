@@ -3,14 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=039535&size=50&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor+Leão;Analista+de+Testes;+:%29)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-<picture style="margin-left: 0 auto;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<div/>
-
+<div> 
+ 
+  <a target="_blank" href="https://www.instagram.com/victorleaoreal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a target="_blank" href = "mailto:contato@victorleao.dev.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/victorleao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ![Snake animation](https://github.com/leaovictor/leaovictor/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 # 💫 Sobre mim:
